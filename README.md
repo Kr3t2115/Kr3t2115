@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kr3t2115
-- 👀 I’m interested in motorcycles and MOBA games
+- 👋 Hi, I’m @Kr3t2115 but for friends "krecik"
+- 👀 I’m interested in MOBA games 
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate.
 - 📫 You can reach me by:
