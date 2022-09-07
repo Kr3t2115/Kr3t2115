@@ -5,6 +5,7 @@
 - 📫 You can reach me by:
 - Discord: krecik#9020
 - Twitter: @jestemkretem
+- or github :)
 
 <!---
 Kr3t2115/Kr3t2115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
