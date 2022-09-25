@@ -1,8 +1,8 @@
 # Szymon Baranowicz 
-- 👋 Hi, I’m @Kr3t2115 but for friends "krecik"
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate.
-- 📫 You can reach me by:
+👋 Hi, I’m @Kr3t2115 but for friends "krecik" \
+🌱 I’m currently learning Frontend Development \
+💞️ I’m looking to collaborate. \
+📫 You can reach me by:
  - Discord: krecik#9020
  - Twitter: @jestemkretem
 
