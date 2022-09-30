@@ -1,4 +1,3 @@
-# @Kr3t2115 \
 👋 Hi, I’m Szymon Baranowicz but for friends "krecik" \
 🌱 I’m currently learning Frontend Development \
 💞️ I’m looking to collaborate. \
