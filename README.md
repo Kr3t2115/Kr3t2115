@@ -1,6 +1,5 @@
 👋 Hi, I’m Szymon Baranowicz but for friends "krecik" \
 🌱 I’m currently learning Frontend Development \
-💞️ I’m looking to collaborate. \
 📫 You can reach me by:
  - Discord: krecik#9020
  - Twitter: @jestemkretem
